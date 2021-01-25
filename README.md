@@ -1,5 +1,5 @@
 #                               WHAT IS THE GITHUB PAGES AND HOW TO USE IT
-
+![github pages](https://raw.githubusercontent.com/mohammad-alzool/Read-02a/main/github-pages.png)
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website. 
 
 learn more abot [github pages](https://docs.github.com/en/github/working-with-github-pages/about-github-pages) .
